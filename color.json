@@ -1,50 +1,122 @@
 {
-
-        "test":{
-  "title": "Projeto Yamaha",
-  "subTitle": "R15 SPORT",
-  "text": "ES\n    EL NACIMIENTO DE GRANDES PROMESAS. ES LA PUESTA EN MARCHA DE\n    MUCHOS PROYECTOS Y CUANDO SE RENUEVAN LAS ENERGIAS. EN ENERO\n    ALGUNOS CAMBIAN EL AIRE Y OTROS SE QUEDAN PARA DISFRUTAR ESA\n    TRANQUILIDAD TAN DISFRUTABLE. EN CUALQUIER CASO, TODOS COINCIDEN\n    EN QUE ES UN ESCENARIO IDEAL. POR ESO EN ENERO TODOS ESTAMOS DE\n    BUEN HUMOR. CON GANAS DE HACER Y CRECER. DE CAMBIAR PARA MEJOR. DE\n    HACER COSAS NUEVAS. POR ESO, ENERO ES MUCHO MÁS QUE EL PRIMER MES\n    DEL AÑO.",
-  "imageHalf": "https://i.ibb.co/4tcH9w9/5-54448-yamaha-r15-2014-motorcycle-wallpaper-yamaha-r15-v2.jpg",
-  "imageMain": "https://i.ibb.co/bHt7fdx/1329780.jpg",
-  "imageSecondary": "https://i.ibb.co/vkHNLFw/quotes143-1591805446.jpg",
-  "contentSlider": [
-    "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
-    "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
-    "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
-    "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg"
-  ],
-  "dataSection": [
-    {
-      "main": "+3M",
-      "secondary": "Digital Views"
-    },
-    {
-      "main": "+66%",
-      "secondary": "Engagment"
-    },
-    {
-      "main": "+66%",
-      "secondary": "Engagment"
-    },
-    {
-      "main": "+66%",
-      "secondary": "Engagment"
-    }
-  ],
-  "wordsBottom": [
-    "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
-  ],
-  "wordsBottomColor": "#6BBEE8",
-  "wordsTop": [
-    "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
-  ],
-  "wordsTopColor": "#1D1D1B"
-},
-         "corinthians":{
-            "colors":{
-                "principal":"#000"
+    "test": {
+        "title": "Projeto Yamaha",
+        "subTitle": "R15 SPORT",
+        "text": "ES\n    EL NACIMIENTO DE GRANDES PROMESAS. ES LA PUESTA EN MARCHA DE\n    MUCHOS PROYECTOS Y CUANDO SE RENUEVAN LAS ENERGIAS. EN ENERO\n    ALGUNOS CAMBIAN EL AIRE Y OTROS SE QUEDAN PARA DISFRUTAR ESA\n    TRANQUILIDAD TAN DISFRUTABLE. EN CUALQUIER CASO, TODOS COINCIDEN\n    EN QUE ES UN ESCENARIO IDEAL. POR ESO EN ENERO TODOS ESTAMOS DE\n    BUEN HUMOR. CON GANAS DE HACER Y CRECER. DE CAMBIAR PARA MEJOR. DE\n    HACER COSAS NUEVAS. POR ESO, ENERO ES MUCHO MÁS QUE EL PRIMER MES\n    DEL AÑO.",
+        "imageHalf": "https://i.ibb.co/4tcH9w9/5-54448-yamaha-r15-2014-motorcycle-wallpaper-yamaha-r15-v2.jpg",
+        "imageMain": "https://i.ibb.co/bHt7fdx/1329780.jpg",
+        "imageSecondary": "https://i.ibb.co/vkHNLFw/quotes143-1591805446.jpg",
+        "contentSlider": [
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg"
+        ],
+        "dataSection": [
+            {
+                "main": "+3M",
+                "secondary": "Digital Views"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
             }
-        }
-
-
+        ],
+        "wordsBottom": [
+            "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
+        ],
+        "wordsBottomColor": "#6BBEE8",
+        "wordsTop": [
+            "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
+        ],
+        "wordsTopColor": "#1D1D1B"
+    },
+    "test2": {
+        "title": "Projeto Ducati",
+        "subTitle": "R15 SPORT",
+        "text": "ES\n    EL NACIMIENTO DE GRANDES PROMESAS. ES LA PUESTA EN MARCHA DE\n    MUCHOS PROYECTOS Y CUANDO SE RENUEVAN LAS ENERGIAS. EN ENERO\n    ALGUNOS CAMBIAN EL AIRE Y OTROS SE QUEDAN PARA DISFRUTAR ESA\n    TRANQUILIDAD TAN DISFRUTABLE. EN CUALQUIER CASO, TODOS COINCIDEN\n    EN QUE ES UN ESCENARIO IDEAL. POR ESO EN ENERO TODOS ESTAMOS DE\n    BUEN HUMOR. CON GANAS DE HACER Y CRECER. DE CAMBIAR PARA MEJOR. DE\n    HACER COSAS NUEVAS. POR ESO, ENERO ES MUCHO MÁS QUE EL PRIMER MES\n    DEL AÑO.",
+        "imageHalf": "https://i.ibb.co/4tcH9w9/5-54448-yamaha-r15-2014-motorcycle-wallpaper-yamaha-r15-v2.jpg",
+        "imageMain": "https://i.ibb.co/0yw4zwM/16038000060122.webp",
+        "imageSecondary": "https://i.ibb.co/vkHNLFw/quotes143-1591805446.jpg",
+        "contentSlider": [
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg"
+        ],
+        "dataSection": [
+            {
+                "main": "+3M",
+                "secondary": "Digital Views"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            }
+        ],
+        "wordsBottom": [
+            "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
+        ],
+        "wordsBottomColor": "#6BBEE8",
+        "wordsTop": [
+            "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
+        ],
+        "wordsTopColor": "#1D1D1B"
+    },
+    "test3": {
+        "title": "Projeto Ducati",
+        "subTitle": "R15 SPORT",
+        "text": "ES\n    EL NACIMIENTO DE GRANDES PROMESAS. ES LA PUESTA EN MARCHA DE\n    MUCHOS PROYECTOS Y CUANDO SE RENUEVAN LAS ENERGIAS. EN ENERO\n    ALGUNOS CAMBIAN EL AIRE Y OTROS SE QUEDAN PARA DISFRUTAR ESA\n    TRANQUILIDAD TAN DISFRUTABLE. EN CUALQUIER CASO, TODOS COINCIDEN\n    EN QUE ES UN ESCENARIO IDEAL. POR ESO EN ENERO TODOS ESTAMOS DE\n    BUEN HUMOR. CON GANAS DE HACER Y CRECER. DE CAMBIAR PARA MEJOR. DE\n    HACER COSAS NUEVAS. POR ESO, ENERO ES MUCHO MÁS QUE EL PRIMER MES\n    DEL AÑO.",
+        "imageHalf": "https://i.ibb.co/4tcH9w9/5-54448-yamaha-r15-2014-motorcycle-wallpaper-yamaha-r15-v2.jpg",
+        "imageMain": "https://i.ibb.co/0yw4zwM/16038000060122.webp",
+        "imageSecondary": "https://i.ibb.co/vkHNLFw/quotes143-1591805446.jpg",
+        "contentSlider": [
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+            "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg"
+        ],
+        "dataSection": [
+            {
+                "main": "+3M",
+                "secondary": "Digital Views"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            },
+            {
+                "main": "+66%",
+                "secondary": "Engagment"
+            }
+        ],
+        "wordsBottom": [
+            "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
+        ],
+        "wordsBottomColor": "#6BBEE8",
+        "wordsTop": [
+            "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
+        ],
+        "wordsTopColor": "#1D1D1B"
+    }
 }
