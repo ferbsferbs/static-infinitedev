@@ -1,8 +1,45 @@
 {
 
         "test":{
-            "title":"test"
-        },
+  "title": "Projeto InfiniteDev",
+  "subTitle": "TEch/Web",
+  "text": "ES\n    EL NACIMIENTO DE GRANDES PROMESAS. ES LA PUESTA EN MARCHA DE\n    MUCHOS PROYECTOS Y CUANDO SE RENUEVAN LAS ENERGIAS. EN ENERO\n    ALGUNOS CAMBIAN EL AIRE Y OTROS SE QUEDAN PARA DISFRUTAR ESA\n    TRANQUILIDAD TAN DISFRUTABLE. EN CUALQUIER CASO, TODOS COINCIDEN\n    EN QUE ES UN ESCENARIO IDEAL. POR ESO EN ENERO TODOS ESTAMOS DE\n    BUEN HUMOR. CON GANAS DE HACER Y CRECER. DE CAMBIAR PARA MEJOR. DE\n    HACER COSAS NUEVAS. POR ESO, ENERO ES MUCHO MÁS QUE EL PRIMER MES\n    DEL AÑO.",
+  "imageHalf": "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+  "imageMain": "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+  "imageSecondary": "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+  "contentSlider": [
+    "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+    "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+    "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png",
+    "https://i.ibb.co/BVkQRXJ/Captura-de-Pantalla-2021-10-11-a-la-s-12-39-54.png"
+  ],
+  "dataSection": [
+    {
+      "main": "+3M",
+      "secondary": "Digital Views"
+    },
+    {
+      "main": "+66%",
+      "secondary": "Engagment"
+    },
+    {
+      "main": "+66%",
+      "secondary": "Engagment"
+    },
+    {
+      "main": "+66%",
+      "secondary": "Engagment"
+    }
+  ],
+  "wordsBottom": [
+    "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
+  ],
+  "wordsBottomColor": "#6BBEE8",
+  "wordsTop": [
+    "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
+  ],
+  "wordsTopColor": "#1D1D1B"
+},
          "corinthians":{
             "colors":{
                 "principal":"#000"
