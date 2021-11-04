@@ -1,37 +1,37 @@
 {
-    "fer":{
-        "linkedin":"https://www.linkedin.com/in/fercorrea/",
-        "image":"https://i.ibb.co/8PR0cRH/1615841945054.jpg",
-        "name":"Fernando Correa",
-        "cargo":"CEO/CFO"
+    "1":{
+        "linkedin":"",
+        "image":"./../assets/staff/GinaPiva-Creatividad.jpg",
+        "name":"Gina Piva",
+        "cargo":"Creatividad"
     },
-     "ger1":{
-        "linkedin":"https://www.linkedin.com/in/r-german-molina/",
-        "image":"https://i.ibb.co/Jpn6FsX/1584418299123.jpg",
-        "name":"German Molina",
-        "cargo":"CTO/COO"
-    }, "fer2":{
-        "linkedin":"https://www.linkedin.com/in/fercorrea/",
-        "image":"https://i.ibb.co/8PR0cRH/1615841945054.jpg",
-        "name":"Fernando Correa",
-        "cargo":"CEO/CFO"
+     "2":{
+        "linkedin":"",
+        "image":"./../assets/staff/HoracioLedesma-Creatividad.jpg",
+        "name":"Horacio Ledesma",
+        "cargo":"Creatividad"
+    }, "3":{
+        "linkedin":"",
+        "image":"./../assets/staff/JuanFaerman-Creatividad.jpg",
+        "name":"Juan Faerman",
+        "cargo":"Creatividad"
     },
-     "ger3":{
-        "linkedin":"https://www.linkedin.com/in/r-german-molina/",
-        "image":"https://i.ibb.co/Jpn6FsX/1584418299123.jpg",
-        "name":"German Molina",
-        "cargo":"CTO/COO"
-    }, "fer1":{
-        "linkedin":"https://www.linkedin.com/in/fercorrea/",
-        "image":"https://i.ibb.co/8PR0cRH/1615841945054.jpg",
-        "name":"Fernando Correa",
-        "cargo":"CEO/CFO"
+     "4":{
+        "linkedin":"",
+        "image":"./../assets/staff/LuzSiresRojo-Cuentas.jpg",
+        "name":"Luz Sires Rojo",
+        "cargo":"Cuentas"
+    }, 
+    "5":{
+        "linkedin":"",
+        "image":"./../assets/staff/ValeriaLaporte-Coordinación.jpg",
+        "name":"Valeria Laporte",
+        "cargo":"Coordinación"
     },
-     "ger11":{
-        "linkedin":"https://www.linkedin.com/in/r-german-molina/",
-        "image":"https://i.ibb.co/Jpn6FsX/1584418299123.jpg",
-        "name":"German Molina",
-        "cargo":"CTO/COO"
-
-        }
+    "6":{
+        "linkedin":"",
+        "image":"./../assets/staff/ValeriaLaporte-Coordinación.jpg",
+        "name":"Valeria Laporte",
+        "cargo":"Coordinación"
+    },
 }
