@@ -1,37 +1,37 @@
 {
     "1": {
         "linkedin": "",
-        "image": "./../assets/staff/GinaPiva-Creatividad.jpg",
+        "image": "https://i.ibb.co/89pKm29/Gina-Piva-Creatividad.jpg",
         "name": "Gina Piva",
         "cargo": "Creatividad"
     },
     "2": {
         "linkedin": "",
-        "image": "./../assets/staff/HoracioLedesma-Creatividad.jpg",
+        "image": "https://i.ibb.co/803M7SM/Horacio-Ledesma-Creatividad.jpg",
         "name": "Horacio Ledesma",
         "cargo": "Creatividad"
     },
     "3": {
         "linkedin": "",
-        "image": "./../assets/staff/JuanFaerman-Creatividad.jpg",
+        "image": "https://i.ibb.co/svwXZc9/Juan-Faerman-Creatividad.jpg",
         "name": "Juan Faerman",
         "cargo": "Creatividad"
     },
     "4": {
         "linkedin": "",
-        "image": "./../assets/staff/LuzSiresRojo-Cuentas.jpg",
+        "image": "https://i.ibb.co/nCHt8pW/Luz-Sires-Rojo-Cuentas.jpg",
         "name": "Luz Sires Rojo",
         "cargo": "Cuentas"
     },
     "5": {
         "linkedin": "",
-        "image": "./../assets/staff/ValeriaLaporte-Coordinación.jpg",
+        "image": "https://i.ibb.co/6vzxC6Y/Valeria-Laporte-Coordinacio-n.jpg",
         "name": "Valeria Laporte",
         "cargo": "Coordinación"
     },
     "6": {
         "linkedin": "",
-        "image": "./../assets/staff/ValeriaLaporte-Coordinación.jpg",
+        "image": "https://i.ibb.co/6vzxC6Y/Valeria-Laporte-Coordinacio-n.jpg",
         "name": "Valeria Laporte",
         "cargo": "Coordinación"
     }
