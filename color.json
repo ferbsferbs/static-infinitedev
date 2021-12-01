@@ -1,4 +1,44 @@
 {
+    "10afundacionMedife": {
+    "title": "Fundación Medifé",
+    "subTitle": "10 años",
+    "text": "Tomando como punto de partida la gráfica que atraviesa a la campaña de Fundación Medifé, propusimos el concepto de abrir puertas como metáfora para introducir al receptor en los diferentes hitos y alianzas que la Fundación fue transitando durante sus 10años.Las alianzas están representadas por imágenes de las puertas de sus edificios, con un tratamiento fotográfico especial.Abrir puertas es asomarse al buen vivir en armonía con la comunidad.Es abrir el debate a través del pensamiento crítico, para enriquecer la reflexión sobre el mundo en el que vivimos.Es promover alianzas con actores destacados para crear espacios activos de participación.Es tender puentes entre bienestar y conocimiento.Es generar y difundir cultura para la salud.Es trabajar como lo hicimos durante estos 10 años que pasaron: pensando en el futuro.",
+    "imageHalf": "https://i.ibb.co/4tcH9w9/5-54448-yamaha-r15-2014-motorcycle-wallpaper-yamaha-r15-v2.jpg",
+    "imageMain": "https://ucd614972c9fb70c52bcb9d84a06.previews.dropboxusercontent.com/p/thumb/ABV1rSDKO44l9ms-K9AqmrXTMqXfoO-xVm0Mw8fc7m_fJ_TNF6eDcqJiLLbEnRaxdhRqS9bP7KOs1jHTkHg4BdpmK85aQMpZ2oyjRyV0mS4D4PmppDlRep2eGR6bNkGRD-OJnkAwNFZAvUrLM6PMCIGQEU8bg2yO9uocBIBRaetwrTWp7hxmF4ZILFalH2zprZzh05Ji06bdIPL4QKjIlO1eFwJnGWulGqjNR0lotJjqZ_64DUGkOMX7WCBEM83oNmQLI-kj8kuoTXeFToHkLL0-KyA7Y7HCjOBer5MB7jbLg1x8E6MTggYc_u7SaDwQ7V8Uls42yrwyp0F4TNYsFVOINHe0OCDyDpa_tnKdB9kXYxVpivxtvHAo4lv--xZ025A/p.jpeg",
+    "imageSecondary": "https://i.ibb.co/vkHNLFw/quotes143-1591805446.jpg",
+    "contentSlider": [
+        "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+        "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+        "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg",
+        "https://i.ibb.co/Njsd1nr/3bd913dd6ae9d76c9a419a13cb1ede96.jpg"
+    ],
+    "dataSection": [
+        {
+            "main": "+3M",
+            "secondary": "Digital Views"
+        },
+        {
+            "main": "+66%",
+            "secondary": "Engagment"
+        },
+        {
+            "main": "+66%",
+            "secondary": "Engagment"
+        },
+        {
+            "main": "+66%",
+            "secondary": "Engagment"
+        }
+    ],
+    "wordsBottom": [
+        "Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador-Ganhador"
+    ],
+    "wordsBottomColor": "#6BBEE8",
+    "wordsTop": [
+        "Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo-Desarrollo"
+    ],
+    "wordsTopColor": "#1D1D1B"
+},
     "yamahatotal": {
         "title": "Projeto Yamaha",
         "subTitle": "R15 SPORT",
